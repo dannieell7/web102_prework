@@ -17,13 +17,13 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [ ] User is able to use nav bar at the top of page to get to Our Games section quickly.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://www.loom.com/share/1d54d4d2332f4a159796f357cd2cc9f9?sid=73470a2b-b8be-40f7-8c45-d727baf51b6d' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -34,11 +34,11 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Some of the challenges i faced, was mainly getting use to the Javascript syntax, because i had to spend some time debugging in challenge 3 due to incorrectly calling some Javascript functions. Also, learning about the DOM and how it works was challenging too, but we got there in the end :).
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Daniel Essien]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
