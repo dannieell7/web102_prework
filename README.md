@@ -29,7 +29,7 @@ Here's a walkthrough of implemented features:
   </iframe>
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with loom chrome extension.
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -37,7 +37,7 @@ GIF created with ...
 
 ## Notes
 
-Some of the challenges i faced, was mainly getting use to the Javascript syntax, because i had to spend some time debugging in challenge 3 due to incorrectly calling some Javascript functions. Also, learning about the DOM and how it works was challenging too, but we got there in the end :).
+Some of the challenges I faced were mainly getting used to the JavaScript syntax, because I had to spend some time debugging in challenge 3 due to incorrectly calling some JavaScript functions. Also, learning about the DOM and how it works was challenging too, but we got there in the end :).
 
 ## License
 
